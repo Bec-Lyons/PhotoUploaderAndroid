@@ -1,9 +1,8 @@
-package com.example.photoappmobile;
+package com.example.rlphotomobileapp.Todo;
 
 /**
- * Created by relyons on 16/08/2017.
+ * Created by BeckLyons on 28/01/2017.
  */
-
 public class PhotoItem {
 
     /**

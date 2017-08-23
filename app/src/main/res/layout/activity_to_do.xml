@@ -27,7 +27,7 @@
             android:layout_height="28dp" />
     </LinearLayout>
 
-    <LinearLayout
+     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#71BCFA"
@@ -42,7 +42,7 @@
             android:hint="@string/add_textbox_hint" >
 
             <requestFocus />
-        </EditText>
+       </EditText>
 
         <Button
             android:id="@+id/buttonAddToDo"
